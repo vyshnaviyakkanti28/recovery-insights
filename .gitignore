@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+# Never commit real health data.
+export.xml
+apple_health_export/
+sample_export.xml
