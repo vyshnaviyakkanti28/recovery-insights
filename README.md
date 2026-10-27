@@ -35,7 +35,7 @@ It also reports the Pearson correlation between last night's sleep and today's H
 Requires Python 3.10 or newer.
 
 ```bash
-git clone https://github.com/<your-username>/recovery-insights.git
+git clone https://github.com/vyshnaviyakkanti28/recovery-insights.git
 cd recovery-insights
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
